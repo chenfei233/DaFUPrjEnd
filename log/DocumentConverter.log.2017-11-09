@@ -1,6 +1,0 @@
-[2017-11-09 11:18:50 ERROR] [main] (com.ycy.jodconverter.App:32) - invalid param, Usage: java -jar DConverter.jar filename ocrflag outputpath
-[2017-11-09 11:19:15 INFO ] [main] (com.ycy.jodconverter.App:41) - fileName = F:\63.keepWorkPrj\38.errors\dafu.html
-[2017-11-09 11:19:15 INFO ] [main] (com.ycy.jodconverter.App:45) - strFileType = html
-[2017-11-09 11:19:15 INFO ] [main] (com.ycy.jodconverter.DConverter:53) - fileName = dafu
-[2017-11-09 11:19:15 INFO ] [main] (com.ycy.jodconverter.DConverter:133) - create file F:\63.keepWorkPrj\38.errors\dafu.mdfailed£¬this file already exist£¡
-[2017-11-09 11:19:15 INFO ] [main] (com.ycy.jodconverter.DConverter:58) - output: F:\63.keepWorkPrj\38.errors\dafu.md
