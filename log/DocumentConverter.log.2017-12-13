@@ -1,0 +1,10 @@
+[2017-12-13 14:20:50 INFO ] [main] (com.ycy.jodconverter.App:42) - fileName = F:\63.keepWorkPrj\38.errors\dafu.html
+[2017-12-13 14:20:51 INFO ] [main] (com.ycy.jodconverter.App:46) - strFileType = html
+[2017-12-13 17:51:01 INFO ] [main] (com.ycy.jodconverter.App:42) - fileName = test.html
+[2017-12-13 17:51:01 INFO ] [main] (Util.FileUtil:85) - The file E:\gitHub_ycy\dafuPrj07\DaFuPrj\test.html is not exist !
+[2017-12-13 17:51:01 INFO ] [main] (Util.FileUtil:42) - test.html is Error!
+[2017-12-13 17:51:01 INFO ] [main] (com.ycy.jodconverter.App:46) - strFileType = -1
+[2017-12-13 17:51:01 INFO ] [main] (com.ycy.jodconverter.App:74) - File type error!
+[2017-12-13 17:54:04 INFO ] [main] (com.ycy.jodconverter.App:42) - fileName = 00.doc
+[2017-12-13 17:54:04 INFO ] [main] (com.ycy.jodconverter.App:46) - strFileType = doc
+[2017-12-13 17:54:04 INFO ] [main] (com.ycy.jodconverter.DConverter:694) - DfConf.linuxFlag = 0

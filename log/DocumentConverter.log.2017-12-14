@@ -1,0 +1,26 @@
+[2017-12-14 13:33:21 INFO ] [main] (com.ycy.jodconverter.App:42) - fileName = 00.doc
+[2017-12-14 13:33:21 INFO ] [main] (Util.FileUtil:85) - The file E:\gitHub_ycy\dafuPrj07\DaFuPrj\00.doc is not exist !
+[2017-12-14 13:33:21 INFO ] [main] (Util.FileUtil:42) - 00.doc is Error!
+[2017-12-14 13:33:21 INFO ] [main] (com.ycy.jodconverter.App:46) - strFileType = -1
+[2017-12-14 13:33:21 INFO ] [main] (com.ycy.jodconverter.App:74) - File type error!
+[2017-12-14 13:34:07 INFO ] [main] (com.ycy.jodconverter.App:42) - fileName = aa.html
+[2017-12-14 13:34:07 INFO ] [main] (com.ycy.jodconverter.App:46) - strFileType = html
+[2017-12-14 13:34:07 INFO ] [main] (com.ycy.jodconverter.DConverter:53) - fileName = aa
+[2017-12-14 13:34:07 INFO ] [main] (com.ycy.jodconverter.DConverter:143) - the dest dir is not exist, create it£¡
+[2017-12-14 13:34:07 INFO ] [main] (com.ycy.jodconverter.DConverter:152) - create file output1030\aa.md success£¡
+[2017-12-14 13:34:07 INFO ] [main] (com.ycy.jodconverter.DConverter:58) - output: E:\gitHub_ycy\dafuPrj07\DaFuPrj\output1030\aa.md
+[2017-12-14 13:39:07 INFO ] [main] (com.ycy.jodconverter.App:42) - fileName = aa.html
+[2017-12-14 13:39:07 INFO ] [main] (com.ycy.jodconverter.App:46) - strFileType = html
+[2017-12-14 13:39:07 INFO ] [main] (com.ycy.jodconverter.DConverter:53) - fileName = aa
+[2017-12-14 13:39:07 INFO ] [main] (com.ycy.jodconverter.DConverter:133) - create file output1030\aa.mdfailed£¬this file already exist£¡
+[2017-12-14 13:39:07 INFO ] [main] (com.ycy.jodconverter.DConverter:58) - output: E:\gitHub_ycy\dafuPrj07\DaFuPrj\output1030\aa.md
+[2017-12-14 13:42:00 INFO ] [main] (com.ycy.jodconverter.App:42) - fileName = aa.html
+[2017-12-14 13:42:00 INFO ] [main] (com.ycy.jodconverter.App:46) - strFileType = html
+[2017-12-14 13:42:01 INFO ] [main] (com.ycy.jodconverter.DConverter:53) - fileName = aa
+[2017-12-14 13:42:01 INFO ] [main] (com.ycy.jodconverter.DConverter:133) - create file output1030\aa.mdfailed£¬this file already exist£¡
+[2017-12-14 13:42:01 INFO ] [main] (com.ycy.jodconverter.DConverter:58) - output: E:\gitHub_ycy\dafuPrj07\DaFuPrj\output1030\aa.md
+[2017-12-14 13:53:46 INFO ] [main] (com.ycy.jodconverter.App:42) - fileName = aa.html
+[2017-12-14 13:53:46 INFO ] [main] (com.ycy.jodconverter.App:46) - strFileType = html
+[2017-12-14 13:53:46 INFO ] [main] (com.ycy.jodconverter.DConverter:88) - fileName = aa
+[2017-12-14 13:53:46 INFO ] [main] (com.ycy.jodconverter.DConverter:152) - create file output1030\aa.md success£¡
+[2017-12-14 13:53:46 INFO ] [main] (com.ycy.jodconverter.DConverter:93) - output: E:\gitHub_ycy\dafuPrj07\DaFuPrj\output1030\aa.md
