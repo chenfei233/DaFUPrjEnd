@@ -1,0 +1,32 @@
+[2017-07-18 08:43:46 INFO ] [main] (com.ycy.jodconverter.App:36) - fileName = http://www.baidu.com
+[2017-07-18 08:43:46 INFO ] [main] (Util.FileUtil:28) - bIsValidUrl = true
+[2017-07-18 08:43:46 INFO ] [main] (com.ycy.jodconverter.App:45) - strFileType = url
+[2017-07-18 08:43:46 INFO ] [main] (com.ycy.jodconverter.App:96) - OCR flag is not needed!
+[2017-07-18 08:45:22 INFO ] [main] (com.ycy.jodconverter.App:36) - fileName = http://www.baidu.com
+[2017-07-18 08:45:22 INFO ] [main] (Util.FileUtil:28) - bIsValidUrl = true
+[2017-07-18 08:45:22 INFO ] [main] (com.ycy.jodconverter.App:45) - strFileType = url
+[2017-07-18 08:45:22 INFO ] [main] (com.ycy.jodconverter.App:96) - OCR flag is not needed!
+[2017-07-18 08:48:17 INFO ] [main] (com.ycy.jodconverter.App:36) - fileName = http://www.baidu.com
+[2017-07-18 08:48:17 INFO ] [main] (Util.FileUtil:28) - bIsValidUrl = true
+[2017-07-18 08:48:17 INFO ] [main] (com.ycy.jodconverter.App:45) - strFileType = url
+[2017-07-18 08:48:17 INFO ] [main] (com.ycy.jodconverter.App:96) - OCR flag is not needed!
+[2017-07-18 08:52:20 INFO ] [main] (com.ycy.jodconverter.App:36) - fileName = http://www.baidu.com
+[2017-07-18 08:52:20 INFO ] [main] (Util.FileUtil:28) - bIsValidUrl = true
+[2017-07-18 08:52:20 INFO ] [main] (com.ycy.jodconverter.App:45) - strFileType = url
+[2017-07-18 08:52:20 INFO ] [main] (com.ycy.jodconverter.App:96) - OCR flag is not needed!
+[2017-07-18 08:56:01 INFO ] [main] (com.ycy.jodconverter.App:36) - fileName = http://www.baidu.com
+[2017-07-18 08:56:01 INFO ] [main] (Util.FileUtil:28) - bIsValidUrl = true
+[2017-07-18 08:56:01 INFO ] [main] (com.ycy.jodconverter.App:45) - strFileType = url
+[2017-07-18 08:56:01 INFO ] [main] (com.ycy.jodconverter.App:96) - OCR flag is not needed!
+[2017-07-18 09:01:25 INFO ] [main] (com.ycy.jodconverter.App:36) - fileName = http://www.baidu.com
+[2017-07-18 09:01:25 INFO ] [main] (Util.FileUtil:28) - bIsValidUrl = true
+[2017-07-18 09:01:25 INFO ] [main] (com.ycy.jodconverter.App:45) - strFileType = url
+[2017-07-18 09:01:25 INFO ] [main] (com.ycy.jodconverter.App:96) - OCR flag is not needed!
+[2017-07-18 09:17:18 INFO ] [main] (com.ycy.jodconverter.App:36) - fileName = http://www.baidu.com
+[2017-07-18 09:17:18 INFO ] [main] (Util.FileUtil:28) - bIsValidUrl = true
+[2017-07-18 09:17:18 INFO ] [main] (com.ycy.jodconverter.App:45) - strFileType = url
+[2017-07-18 09:17:18 INFO ] [main] (com.ycy.jodconverter.App:96) - OCR flag is not needed!
+[2017-07-18 09:20:21 INFO ] [main] (com.ycy.jodconverter.App:36) - fileName = http://www.baidu.com
+[2017-07-18 09:20:21 INFO ] [main] (Util.FileUtil:28) - bIsValidUrl = true
+[2017-07-18 09:20:21 INFO ] [main] (com.ycy.jodconverter.App:45) - strFileType = url
+[2017-07-18 09:20:21 INFO ] [main] (com.ycy.jodconverter.App:96) - OCR flag is not needed!

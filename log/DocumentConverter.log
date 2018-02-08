@@ -1,0 +1,8 @@
+[2017-12-19 16:22:37 INFO ] [main] (com.ycy.jodconverter.App:43) - fileName = C:\Users\Administrator\Desktop\aa.html
+[2017-12-19 16:22:37 INFO ] [main] (com.ycy.jodconverter.App:47) - strFileType = html
+[2017-12-19 16:22:51 INFO ] [main] (com.ycy.jodconverter.App:43) - fileName = C:\Users\Administrator\Desktop\aa.html
+[2017-12-19 16:22:51 INFO ] [main] (com.ycy.jodconverter.App:47) - strFileType = html
+[2017-12-19 16:23:36 INFO ] [main] (com.ycy.jodconverter.App:43) - fileName = C:\Users\Administrator\Desktop\bb.html
+[2017-12-19 16:23:36 INFO ] [main] (com.ycy.jodconverter.App:47) - strFileType = html
+[2017-12-19 16:31:15 INFO ] [main] (com.ycy.jodconverter.App:50) - fileName = C:\Users\Administrator\Desktop\bb.html
+[2017-12-19 16:31:15 INFO ] [main] (com.ycy.jodconverter.App:54) - strFileType = html
